@@ -27,7 +27,7 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := joyeuse
 PRODUCT_MANUFACTURER := Xiaomi
-PRODUCT_NAME := lineage_joyeuse
+PRODUCT_NAME := aurora_joyeuse
 PRODUCT_MODEL := Redmi Note 9 Pro
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
