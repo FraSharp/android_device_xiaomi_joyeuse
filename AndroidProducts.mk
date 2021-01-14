@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_joyeuse.mk
+    $(LOCAL_DIR)/aurora_joyeuse.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_joyeuse-user \
-    lineage_joyeuse-userdebug \
-    lineage_joyeuse-eng
+    aurora_joyeuse-user \
+    aurora_joyeuse-userdebug \
+    aurora_joyeuse-eng
