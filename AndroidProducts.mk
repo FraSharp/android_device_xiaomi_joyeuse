@@ -17,6 +17,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/bliss_joyeuse.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_joyeuse-user \
-    lineage_joyeuse-userdebug \
-    lineage_joyeuse-eng
+    bliss_joyeuse-user \
+    bliss_joyeuse-userdebug \
+    bliss_joyeuse-eng
